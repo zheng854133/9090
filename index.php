@@ -5,7 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
-<title>显示查询自己的IP地址</title>
+<title>显示自己的IP地址</title>
 <meta name="keywords" content="IP地址" />
 <meta name="description" content="从中国和美国显示查询自己的IP地址" />
 
