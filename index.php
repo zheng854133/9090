@@ -90,7 +90,7 @@ echo GetIP();
 
 
       <footer class="footer">
-        <p>Powered By <a href="http://www.rregg.com">www.rregg.com</a> 联系我们请发Email到 info@rregg.com </p>
+        <p>Powered By <a href="http://www.rregg.com">www.rregg.com</a> 联系我们请发Email到 admin@rregg.com </p>
       </footer>
 
     </div> <!-- /container -->
